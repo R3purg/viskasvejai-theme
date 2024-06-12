@@ -69,10 +69,56 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_a3Xjyq": {
+      "type": "multirow",
+      "blocks": {
+        "row_9txzB6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/core_aeracija.jpg",
+            "caption": "ViskasVejai.lt paslaugos",
+            "heading": "<strong>Vejos core aeravimas<\/strong>",
+            "text": "<p>Core aeravimas, kaip ir tręšimas, ar skarifikavimas, turi būti kasmetinis vejos priežiūros darbas. Tai ilgainiui užtikrina tankios vejos buvimą.<\/p><p>Vejos dirva turi būti kaip kempinė, su daug kanalų, arba, oro kišenių tinklu.<\/p><p>Net jei vejos šaknys yra po žeme, joms vistiek reikia kvėpuoti. Taip pat būtinas vanduo ir maistinės medžiagos. Todėl yra labai svarbu- tikroji core aeracija...<\/p>",
+            "button_label": "Skaityti daugiau",
+            "button_link": "shopify:\/\/pages\/paslaugos"
+          }
+        },
+        "row_6Drq69": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbird_laistymo_sistema_purkstukas.jpg",
+            "caption": "ViskasVejai.lt paslaugos",
+            "heading": "<strong>Sodo laistymo sistemos: profesionalus sprendimas jūsų vejai<\/strong>",
+            "text": "<p><strong>ViskasVejai.lt<\/strong> siūlo aukščiausios kokybės sodo laistymo sistemų įrengimo paslaugas, skirtas užtikrinti, kad jūsų veja visada būtų sveika ir žavinga.<\/p><p><strong>Mūsų patyrę specialistai:<\/strong><\/p><p><strong>Atliks išsamų jūsų sodo poreikių įvertinimą:<\/strong> atsižvelgdami į sklypo dydį, formą, augalų tipus, dirvožemio savybes ir jūsų norus, parinksime tinkamiausią laistymo sistemos tipą ir dizainą...<\/p>",
+            "button_label": "Skaityti daugiau",
+            "button_link": "shopify:\/\/pages\/paslaugos"
+          }
+        }
+      },
+      "block_order": [
+        "row_9txzB6",
+        "row_6Drq69"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-2",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -98,6 +144,7 @@
   "order": [
     "image_banner",
     "collection_list_MaqJjw",
+    "multirow_a3Xjyq",
     "17174969002c3b1168"
   ]
 }
