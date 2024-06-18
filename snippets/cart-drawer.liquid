@@ -508,6 +508,12 @@
         <!-- CTAs -->
 
         <div class="cart__ctas" {{ block.shopify_attributes }}>
+          <a
+            class="cart__checkout-button button"
+            href="{{ routes.cart_url }}"
+          >
+            {{ 'sections.cart.checkout' | t }}
+          </a>
           <button
             type="submit"
             id="CartDrawer-Checkout"
