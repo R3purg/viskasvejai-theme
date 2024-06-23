@@ -171,7 +171,7 @@
         "heading": "Patarimai",
         "heading_size": "h1",
         "blog": "news",
-        "post_limit": 4,
+        "post_limit": 10,
         "columns_desktop": 3,
         "color_scheme": "scheme-1",
         "show_image": true,
