@@ -67,12 +67,19 @@
           "settings": {
             "collection": "automatinio-laistymo-sistemos"
           }
+        },
+        "featured_collection_eQDBT9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_DAKFjy",
         "featured_collection_RGBzef",
-        "featured_collection_VYAAJ8"
+        "featured_collection_VYAAJ8",
+        "featured_collection_eQDBT9"
       ],
       "settings": {
         "title": "Produktai",
