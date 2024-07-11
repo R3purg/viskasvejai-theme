@@ -71,6 +71,12 @@
         "featured_collection_eQDBT9": {
           "type": "featured_collection",
           "settings": {
+            "collection": "vejos-pjovimo-irankiai-ir-priedai"
+          }
+        },
+        "featured_collection_9fiRdB": {
+          "type": "featured_collection",
+          "settings": {
             "collection": ""
           }
         }
@@ -79,7 +85,8 @@
         "featured_collection_DAKFjy",
         "featured_collection_RGBzef",
         "featured_collection_VYAAJ8",
-        "featured_collection_eQDBT9"
+        "featured_collection_eQDBT9",
+        "featured_collection_9fiRdB"
       ],
       "settings": {
         "title": "Produktai",
