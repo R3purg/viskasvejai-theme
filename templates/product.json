@@ -24,13 +24,6 @@
           "settings": {
           }
         },
-        "popup_9U7RNC": {
-          "type": "popup",
-          "settings": {
-            "text": "Akcija! Perki 5, moki tik už 4 vnt.!",
-            "page": ""
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -75,7 +68,6 @@
       "block_order": [
         "vendor",
         "title",
-        "popup_9U7RNC",
         "price",
         "variant_picker",
         "quantity_selector",
