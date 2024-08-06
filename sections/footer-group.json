@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -9,7 +18,7 @@
           "type": "text",
           "settings": {
             "heading": "<strong>Kontaktinė informacija<\/strong>",
-            "subtext": "<p>MB NIO Prekyba<\/p><p>JA k. 306733838,<\/p><p>Karklų g. 27, Vilnius<\/p><p>Jonas +370 (671) 60534 <\/p><p>Marius +370 (623) 65 941<\/p><p>arba rašykite email:<\/p><p>nio.prekyba@gmail.com<\/p>"
+            "subtext": "<p>MB NIO Prekyba<\/p><p>JA k. 306733838,<\/p><p>Karklų g. 27, Vilnius<\/p><p>Jonas +370 (671) 60534 <\/p><p>Marius +370 (623) 65 941<\/p><p>arba rašykite email:<\/p><p>jonas@viskasvejai.lt<\/p>"
           }
         },
         "link_list_9aJwjK": {
