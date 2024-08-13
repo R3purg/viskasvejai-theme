@@ -17,16 +17,6 @@
         "color_scheme": "scheme-1"
       }
     },
-    "contact_form_wVJUdX": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Susisiekite",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -50,7 +40,6 @@
   },
   "order": [
     "banner",
-    "contact_form_wVJUdX",
     "product-grid"
   ]
 }
