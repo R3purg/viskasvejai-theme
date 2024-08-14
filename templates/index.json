@@ -196,10 +196,10 @@
         "padding_bottom": 36
       }
     },
-    "contact_form_48iEBt": {
-      "type": "contact-form",
+    "page_GUf6aT": {
+      "type": "page",
       "settings": {
-        "heading": "<strong>Laistymo sistemos projekto užklausa<\/strong>",
+        "page": "laistymo-sistemos-anketa",
         "heading_size": "h1",
         "color_scheme": "",
         "padding_top": 36,
@@ -215,6 +215,6 @@
     "multirow_a3Xjyq",
     "17174969002c3b1168",
     "featured_blog_frLLfe",
-    "contact_form_48iEBt"
+    "page_GUf6aT"
   ]
 }
